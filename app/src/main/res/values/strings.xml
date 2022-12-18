@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fragment And Service</string>
+    <string name="send_to">Send to…</string>
+    <string name="input_some_text">input some text</string>
+    <string name="ok">OK</string>
+    <string name="qad">lskbdng ojw</string>
+    <string name="list_of_all_sensors">List of All Sensors</string>
+    <string name="accel">Accel</string>
+    <string name="gyros">Gyros</string>
+    <string name="light">Light</string>
+    <string name="magne">Magne</string>
+</resources>
